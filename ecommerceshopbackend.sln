@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecommerceshopbackend", "ecommerceshopbackend\ecommerceshopbackend.csproj", "{BB8DF4C1-79BE-476F-9583-CDCF6B2CF2A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecommercebackend.data", "ecommercebackend.data\ecommercebackend.data.csproj", "{842962CB-3681-4EBF-B40E-B7993235016F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB8DF4C1-79BE-476F-9583-CDCF6B2CF2A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8DF4C1-79BE-476F-9583-CDCF6B2CF2A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8DF4C1-79BE-476F-9583-CDCF6B2CF2A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8DF4C1-79BE-476F-9583-CDCF6B2CF2A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{842962CB-3681-4EBF-B40E-B7993235016F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842962CB-3681-4EBF-B40E-B7993235016F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842962CB-3681-4EBF-B40E-B7993235016F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842962CB-3681-4EBF-B40E-B7993235016F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10E016DB-4674-4545-9E67-6004E4010425}
+	EndGlobalSection
+EndGlobal
